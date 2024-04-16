@@ -1,0 +1,5 @@
+CLASS zbp_student_hdr_tab_i DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zstudent_hdr_tab_i.
+ENDCLASS.
+
+CLASS zbp_student_hdr_tab_i IMPLEMENTATION.
+ENDCLASS.
